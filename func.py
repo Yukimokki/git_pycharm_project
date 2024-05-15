@@ -1,6 +1,5 @@
-a = 5
-b = 7
-c = a + b
-
-d = b - c
+def func(a,b):
+    c = a + b
+    d = a - c
+    return c,d
 
